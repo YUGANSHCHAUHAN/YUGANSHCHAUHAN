@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yugansh Chauhan</h1>
 
 <h2 align="left">About Me👨‍🎓 </h2>
-<h3 align="center">I am A 2rd year Student pursuing B.Tech from ABES Institute of Technology. I have worked on many Data Science and ML Projects. Currently, learning AI and NLP. Currently working on Computer Vision Projects.</h3>
+<h3 align="center">I am A 2<sup>nd</sup> year Student pursuing B.Tech from ABES Institute of Technology. I have worked on many Data Science and ML Projects. Currently, learning AI and NLP. Currently working on Computer Vision Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuganshchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="yuganshchauhan" /> </p>
 
@@ -41,6 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
 
 
 
