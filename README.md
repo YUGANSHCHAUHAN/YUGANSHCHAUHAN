@@ -59,7 +59,7 @@
 <a href="https://instagram.com/yuganshchauhan"><img src="https://img.shields.io/badge/-%40yuganshchauhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp
 <a href="https://stackoverflow.com/users/15603177"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a><br>
 <a href="https://www.kaggle.com/yuganshchauhan"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-informational?style=flat&logo=Kaggle&logoColor=white"/></a>
- <a href="https://www.codechef.com/users/yugansh21"><img src="https://img.shields.io/badge/-yugansh21-informational?style=flat&logo=codechef&logoColor=white"/></a>
- <a href="https://www.hackerrank.com/yuganshchauhan21"><img src="https://img.shields.io/badge/-@yuganshchauhan21-informational?style=flat&logo=hackerrank&logoColor=white"/></a>
- <a href="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/"><img src="https://img.shields.io/badge/-yuganshchauhan21-informational?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+ <a href="https://www.codechef.com/users/yugansh21"><img src="https://img.shields.io/badge/-yugansh21-grey?style=flat&logo=codechef&logoColor=white"/></a>
+ <a href="https://www.hackerrank.com/yuganshchauhan21"><img src="https://img.shields.io/badge/-@yuganshchauhan21-success?style=flat&logo=hackerrank&logoColor=white"/></a>
+ <a href="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/"><img src="https://img.shields.io/badge/-yuganshchauhan21-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 
