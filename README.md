@@ -46,12 +46,11 @@
 ## My Github Status 🦸
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuganshchauhan&show_icons=true&locale=en&layout=compact" alt="yuganshchauhan" /></p>
+<br>
 
+## Connect with Me
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/YuganshChauhan2"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYuganshChauhan2"/>
 <a href="https://www.linkedin.com/in/yugansh-chauhan-411b3719a/"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="yuganshchauhan21@gmail.com"><img src="https://img.shields.io/badge/-yuganshchauhan21%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
