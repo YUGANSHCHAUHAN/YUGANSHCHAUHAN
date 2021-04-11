@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Data Science, ML, AI**
 
-- 📫 How to reach me **yuganshchauhan21@gmail.com**
+- 📫 How to reach me [**yuganshchauhan21@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=yuganshchauhan21@gmail.com)
 - 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1iBdm1e-YH2WO8xi59SFWMxLMO_a7cxnk/view?usp=sharing) for more details about me. Feel free to share feedback and suggestions!
 
 
@@ -54,7 +54,7 @@
 <p align="left">
 <a href="https://twitter.com/YuganshChauhan2"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYuganshChauhan2"/>
 <a href="https://www.linkedin.com/in/yugansh-chauhan-411b3719a/"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="yuganshchauhan21@gmail.com"><img src="https://img.shields.io/badge/-yuganshchauhan21%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yuganshchauhan21@gmail.com"><img src="https://img.shields.io/badge/-yuganshchauhan21%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yuganshchauhan"><img src="https://img.shields.io/badge/-%40yuganshchauhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/15603177"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 <a href="https://www.kaggle.com/yuganshchauhan"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-informational?style=flat&logo=Kaggle&logoColor=white"/></a>
