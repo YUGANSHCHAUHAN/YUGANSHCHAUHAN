@@ -13,11 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuganshchauhan2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yuganshchauhan2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yugansh-chauhan-411b3719a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yugansh-chauhan-411b3719a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15603177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15603177" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yuganshchauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/yuganshchauhan" height="30" width="40" /></a>
-<a href="https://instagram.com/yuganshchauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yuganshchauhan" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/yuganshchauhan2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yuganshchauhan2" height="30" width="40" /></a> -->
+<a href="https://twitter.com/YuganshChauhan2"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYuganshChauhan2"/>
+<a href="https://www.linkedin.com/in/yugansh-chauhan-411b3719a"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="yuganshchauhan21@gmail.com"><img src="https://img.shields.io/badge/-yuganshchauhan21%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/yuganshchauhan"><img src="https://img.shields.io/badge/-%40yuganshchauhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/15603177"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="https://www.kaggle.com/yuganshchauhan"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-informational?style=flat&logo=Kaggle&logoColor=white"/></a>
+ 
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/yugansh21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yugansh21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/yuganshchauhan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/yuganshchauhan21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" height="30" width="40" /></a>
