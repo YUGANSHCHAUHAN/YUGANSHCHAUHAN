@@ -56,8 +56,8 @@
 <a href="https://twitter.com/YuganshChauhan2"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYuganshChauhan2"/>
 <a href="https://www.linkedin.com/in/yugansh-chauhan-411b3719a/"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yuganshchauhan21@gmail.com"><img src="https://img.shields.io/badge/-yuganshchauhan21%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yuganshchauhan"><img src="https://img.shields.io/badge/-%40yuganshchauhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/15603177"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a>\
+<a href="https://instagram.com/yuganshchauhan"><img src="https://img.shields.io/badge/-%40yuganshchauhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp
+<a href="https://stackoverflow.com/users/15603177"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a><br>
 <a href="https://www.kaggle.com/yuganshchauhan"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-informational?style=flat&logo=Kaggle&logoColor=white"/></a>
  <a href="https://www.codechef.com/users/yugansh21"><img src="https://img.shields.io/badge/-yugansh21-informational?style=flat&logo=codechef&logoColor=white"/></a>
  <a href="https://www.hackerrank.com/yuganshchauhan21"><img src="https://img.shields.io/badge/-@yuganshchauhan21-informational?style=flat&logo=hackerrank&logoColor=white"/></a>
