@@ -17,7 +17,7 @@
 
 <img alt="Coding" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/coding-freak.gif" align="right" width =300/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-## My Github Status 🦸
+## My Github Status 🦸‍♂️
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuganshchauhan&show_icons=true&locale=en&layout=compact" alt="yuganshchauhan" /></p>
 
