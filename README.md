@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yugansh Chauhan</h1>
 
-<h2 align="left">About Me👨‍🎓<img alt="Coding" srchttps://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/programer.gif" align="right" width =70/></h2>
+<h2 align="left">About Me👨‍🎓 align="right" width =70/></h2>
 <h3 align="center">I am A 2rd year Student pursuing B.Tech from ABES Institute of Technology. I have worked on many Data Science and ML Projects. Currently, learning AI and NLP. Currently working on Computer Vision Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuganshchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="yuganshchauhan" /> </p>
