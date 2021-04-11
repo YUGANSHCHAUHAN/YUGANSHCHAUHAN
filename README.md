@@ -60,7 +60,7 @@
 <a href="https://stackoverflow.com/users/15603177"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 <a href="https://www.kaggle.com/yuganshchauhan"><img src="https://img.shields.io/badge/-Yugansh%20Chauhan%20-informational?style=flat&logo=Kaggle&logoColor=white"/></a>
  
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/yugansh21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yugansh21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/yuganshchauhan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/yuganshchauhan21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yugansh21" target="blank"><img align="center" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/codechef.png" alt="https://www.codechef.com/users/yugansh21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yuganshchauhan21" target="blank"><img align="center" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/Hackerrank.png" alt="https://www.hackerrank.com/yuganshchauhan21" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" target="blank"><img align="center" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/GFG.png" alt="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" height="30" width="40" /></a>
 </p>
