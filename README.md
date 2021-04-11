@@ -23,7 +23,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/yuganshchauhan21/todo-done/" height="30" width="40" /></a>
 </p>
 
-<img alt="Coding" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/coding-freak.gif" align="right" width =400/>
+<img alt="Coding" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/coding-freak.gif" align="right" width =300/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -51,12 +51,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+
+
 ## My Github Status 🦸
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuganshchauhan&show_icons=true&locale=en&layout=compact" alt="yuganshchauhan" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuganshchauhan&show_icons=true&locale=en" alt="yuganshchauhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuganshchauhan&" alt="yuganshchauhan" /></p>
