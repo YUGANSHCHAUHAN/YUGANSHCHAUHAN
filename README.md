@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yugansh Chauhan</h1>
 
 <h2 align="left">About Me👨‍🎓 </h2>
-<h3 align="center">I am A 2<sup>nd</sup> year Student pursuing B.Tech from ABES Institute of Technology. I have worked on many Data Science and ML Projects. Currently, learning AI and NLP. Currently working on Computer Vision Projects.</h3>
+<h3 align="center">I am A 3<sup>nd</sup> year Student pursuing B.Tech from ABES Institute of Technology. I have worked on many Data Science and ML Projects. Currently, learning AI and NLP. Currently working on Computer Vision Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuganshchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="yuganshchauhan" /> </p>
 
