@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Python, Data Science, ML, AI**
+- 💬 Ask me about **Python, Data Science, ML**
 
 - 📫 How to reach me [**yuganshchauhan21@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=yuganshchauhan21@gmail.com)
 - 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1iBdm1e-YH2WO8xi59SFWMxLMO_a7cxnk/view?usp=sharing) for more details about me. Feel free to share feedback and suggestions!
