@@ -43,6 +43,6 @@ With a strong foundation in **Java**, **Spring Boot**, and **Apache Spark**, I e
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yugansh-chauhan/)  
-- 📬 Reach me at yuganshchauhan02@gmail.com  
+- 📬 Reach me at yuganshchauhan21@gmail.com  
 
 ---
